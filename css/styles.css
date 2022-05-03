@@ -1,0 +1,42 @@
+body{
+    background-color: red;
+}
+.topo{
+    background-color: brown;
+}
+.logo{
+    width: 100px;
+    height: 65px;
+}
+.menu{
+    padding: 5px;
+    background-color: red;
+}
+.card{
+    width: 400px;
+}
+.carrosel{
+    background-color: red;
+}
+.page-footer{
+    background-color: brown;
+}
+.pedido{
+    padding: 10px;
+    background-color: rgb(99, 37, 37);
+}
+.pindex{
+    color: black;
+}
+label{
+    color: white;
+}
+.botao{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 20%;
+    height: 10%;
+    color: aliceblue;
+    cursor: pointer;
+    border-style: solid;
+}
